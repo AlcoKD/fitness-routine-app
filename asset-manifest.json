@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitness-routine-app/static/css/main.b173a093.css",
+    "main.js": "/fitness-routine-app/static/js/main.d2e2783a.js",
+    "static/media/woman-background.jpg": "/fitness-routine-app/static/media/woman-background.828229549e00519f1e99.jpg",
+    "static/media/man-background.png": "/fitness-routine-app/static/media/man-background.32f3164abe1eaf80ecca.png",
+    "index.html": "/fitness-routine-app/index.html",
+    "main.b173a093.css.map": "/fitness-routine-app/static/css/main.b173a093.css.map",
+    "main.d2e2783a.js.map": "/fitness-routine-app/static/js/main.d2e2783a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b173a093.css",
+    "static/js/main.d2e2783a.js"
+  ]
+}
