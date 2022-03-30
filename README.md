@@ -1,7 +1,7 @@
 Created by using React.js. 
 there are 2 login pages and im using states to let the app know which one to render.
 States also helps to keep track of the chosen login page and mantaining the same background for the main component and to manage the schedules rendering and the linked video for each exercise.
-Schedules, exercise and links are imported from a js file as an array of object.
+Schedules, exercise and links are imported from a js file as an array of objects.
 Schedules gets rendered by reading its state based on the input field change and mapping through them, returning a unique component with the values i need.
 Exercises gets called by checking for the current schedule chosen and links by checking for the associated exercise.
 
